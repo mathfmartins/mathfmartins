@@ -18,6 +18,8 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/xtenzQ/xtenzQ/87c7aedcc867b3745e43333c8041f783e01b0b42/icons/bootstrap.svg">
+  <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/58775986/144545749-9463218e-83aa-4c75-b3b6-3471023a1312.png">
+  
   <img align="center" height="33" width="40" src="https://raw.githubusercontent.com/xtenzQ/xtenzQ/87c7aedcc867b3745e43333c8041f783e01b0b42/icons/c-sharp-solid.svg">
     
 </div>
