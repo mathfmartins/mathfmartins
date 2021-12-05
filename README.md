@@ -1,6 +1,6 @@
 ### *Oi, como vai?* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" alt="GIF" src="https://media4.giphy.com/media/h8sVibFE0NChi/giphy.gif" width="490" height="320" />
+<img align="right" alt="GIF" src="https://media4.giphy.com/media/h8sVibFE0NChi/giphy.gif" width="500" height="320" />
   
   Trabalho com desenvolvimento web full-stack,
   formado em Análise e Desenvolvimento de Sistemas
@@ -19,7 +19,8 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/xtenzQ/xtenzQ/87c7aedcc867b3745e43333c8041f783e01b0b42/icons/bootstrap.svg">
   <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/58775986/144545749-9463218e-83aa-4c75-b3b6-3471023a1312.png">
-  
+  <br>
+  <br>
   <img align="center" height="33" width="40" src="https://raw.githubusercontent.com/xtenzQ/xtenzQ/87c7aedcc867b3745e43333c8041f783e01b0b42/icons/c-sharp-solid.svg">
     
 </div>
