@@ -1,6 +1,6 @@
 ### *Oi, como vai?* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" alt="GIF" src="https://media4.giphy.com/media/h8sVibFE0NChi/giphy.gif" width="495" height="320" />
+<img align="right" alt="GIF" src="https://media4.giphy.com/media/h8sVibFE0NChi/giphy.gif" width="490" height="320" />
   
   Trabalho com desenvolvimento web full-stack,
   formado em Análise e Desenvolvimento de Sistemas
