@@ -19,14 +19,13 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/xtenzQ/xtenzQ/87c7aedcc867b3745e43333c8041f783e01b0b42/icons/bootstrap.svg">
   <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/58775986/144545749-9463218e-83aa-4c75-b3b6-3471023a1312.png">
-  
   <br>
   <br>
-  <img align="center" height="30" width="65" src="https://user-images.githubusercontent.com/58775986/148585946-79aeb9ba-dc85-41e2-b163-18815484edad.png">
+  <img align="center" height="34" width="65" src="https://user-images.githubusercontent.com/58775986/148585946-79aeb9ba-dc85-41e2-b163-18815484edad.png">
   <img align="center" height="33" width="40" src="https://raw.githubusercontent.com/xtenzQ/xtenzQ/87c7aedcc867b3745e43333c8041f783e01b0b42/icons/c-sharp-solid.svg">
     
 </div>
-  
+
   ##
  <div align="left">
   <a href = "mailto: math.fmartinssp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
