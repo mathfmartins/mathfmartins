@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://media4.giphy.com/media/h8sVibFE0NChi/giphy.gif" width="500" height="320" />
   
-  Trabalho com desenvolvimento web full-stack,
+  Trabalho com desenvolvimento web,
   formado em Análise e Desenvolvimento de Sistemas
   pela Fatec de São José do Rio Preto.
     
